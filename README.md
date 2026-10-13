@@ -191,10 +191,10 @@ flutterfire configure
 
 # 👨‍💻 Author
 
-Developed by **Tauhid Musa Rieon**
+Developed by **RIFAT KHAN**
 
 GitHub:
-https://github.com/tauhidmusarieon
+https://github.com/k-rifat
 
 ---
 

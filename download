@@ -1,0 +1,50 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+build/
+.idea/
+.packages
+pubspec.lock
+
+# Flutter/Dart related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+coverage/
+generated_plugin_registrant.dart
+
+# iOS / macOS
+ios/
+macos/
+
+# Android related
+android/.gradle/
+android/app/build/
+android/build/
+*.apk
+*.aab
+*.so
+*.jar
+
+# Web / Windows / Linux
+web/
+windows/
+linux/
+
+# VS Code / IntelliJ / Android Studio
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Symbolication / Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Local environment files
+.env
